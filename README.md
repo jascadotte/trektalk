@@ -1,2 +1,2 @@
-# trektalk
+# TrekTalk
 Community Hiking Website
